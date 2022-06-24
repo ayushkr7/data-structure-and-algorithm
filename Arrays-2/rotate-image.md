@@ -1,4 +1,4 @@
-Link: https://leetcode.com/problems/rotate-image/submissions/
+Link: https://leetcode.com/problems/rotate-image/
 
 ~~~
 class Solution {
